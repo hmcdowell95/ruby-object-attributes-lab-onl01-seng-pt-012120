@@ -17,6 +17,7 @@ class Dog
   end
   
   dog_name.instance_variable_set(:@name)
+  dog_breed.instance_variable_set(:@breed)
   
 end
     
