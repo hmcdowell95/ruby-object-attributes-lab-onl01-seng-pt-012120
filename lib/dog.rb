@@ -16,7 +16,7 @@ class Dog
     @this_breed
   end
   
-  dog_name.instance_variable_set()
+  dog_name.instance_variable_set(:@name)
   
 end
     
