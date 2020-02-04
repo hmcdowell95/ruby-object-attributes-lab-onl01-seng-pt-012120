@@ -16,7 +16,7 @@ class Dog
     @this_breed
   end
   
-  dog_name
+  dog_name.in
   
 end
     
